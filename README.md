@@ -488,5 +488,14 @@ body {
 
 ![alt text](<Screenshot 2025-11-14 020655.png>)
 
+<img width="1919" height="904" alt="Screenshot 2025-11-14 114108" src="https://github.com/user-attachments/assets/4d9d3121-cb94-4e1d-b964-d218854125a9" />
+
+<img width="825" height="861" alt="Screenshot 2025-11-14 122338" src="https://github.com/user-attachments/assets/ef9a0320-98de-4532-a228-ad6ba02265c5" />
+
+<img width="734" height="832" alt="Screenshot 2025-11-14 122459" src="https://github.com/user-attachments/assets/b2d34006-17fe-43a7-b2db-cbc2c8e7f642" />
+
+<img width="626" height="832" alt="Screenshot 2025-11-14 122833" src="https://github.com/user-attachments/assets/30ff7ee6-0a20-48f7-a05f-f6971268508d" />
+
+
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
